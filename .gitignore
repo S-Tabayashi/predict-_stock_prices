@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Origina
+*.pkl
+*.csv
+backup/
+catboost_info/
+.DS_Store
