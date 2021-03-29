@@ -134,3 +134,4 @@ dmypy.json
 backup/
 catboost_info/
 .DS_Store
+model/
